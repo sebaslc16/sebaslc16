@@ -21,7 +21,7 @@
 - Intermediate level English B2 [Certificate](https://www.efset.org/cert/D5qMBr).
 - I love the world of technology and learning new things every day.
 - Currently learning Web Development by Self.
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Personal portfolio [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume / CV](https://read.cv/sebaslc16)
 
 <br>
