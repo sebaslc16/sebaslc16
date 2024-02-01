@@ -1,7 +1,6 @@
-
-<h1 align="center"> 
+<h1 align="center">
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-	<b>Hi, I'm Sebastian Londoño,</b> a software developer from <b>Colombia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+	<b>Hi, I'm Sebastian,</b> a software developer from <b>Colombia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <!--  -->
 <p align="center">
