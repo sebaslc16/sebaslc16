@@ -91,6 +91,7 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics / Estadísticas GitHub
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=sebaslc16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
@@ -102,7 +103,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaslc16&theme=dark&hide_border=true"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaslc16&" alt="sebaslc16" />
 </p>
 
 <br>
@@ -131,9 +132,4 @@
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaslc16&" alt="sebaslc16" /></p>
-<br>
 <br>
