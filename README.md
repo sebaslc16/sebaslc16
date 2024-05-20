@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaslc16&" alt="sebaslc16" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebaslc16" alt="sebaslc16"/>
 </p>
 
 <br>
